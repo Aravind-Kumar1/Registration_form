@@ -7,10 +7,12 @@ Frontend:
 
 HTML
 CSS
+
+
 Backend:
 
 Node.js
 Express.js
-Database:
 
+Database:
 MongoDB
